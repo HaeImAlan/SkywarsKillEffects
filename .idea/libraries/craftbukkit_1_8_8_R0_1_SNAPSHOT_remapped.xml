@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="craftbukkit-1.8.8-R0.1-SNAPSHOT-remapped">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../craftbukkit-1.8.8-R0.1-SNAPSHOT-remapped.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../craftbukkit-1.8.8-R0.1-SNAPSHOT-remapped.jar!/" />
+    </SOURCES>
+  </library>
+</component>

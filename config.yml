@@ -1,0 +1,21 @@
+enable-autorespawn: false
+enable-killsound: true
+killsound: ORB_PICKUP
+killsound-pitch: 2
+HEART_EXPLOSION:
+  offset-x: 0.7
+  offset-y: 0.5
+  offset-z: 0.7
+  add-x: 0
+  add-y: 1
+  add-z: 0
+  speed: 0.1
+HEAD_ROCKET:
+  add-yaw: 10
+  add-y: 0.5
+  duration: 20
+FINAL_SMASH:
+  add-yaw: 20
+  add-y: 0.2
+  duration: 60
+  duration-turn: 20

@@ -1,0 +1,7 @@
+name: SkywarsKillEffects
+version: 1.0
+main: tk.itsnotalan.swkilleffect.SWKillEffect
+commands:
+  swkilleffect:
+    permission: swke.swke
+    aliases: [swek, skywarskilleffects]
