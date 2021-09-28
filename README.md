@@ -1,2 +1,3 @@
 # SkywarsKillEffect
- A spigot plugin for skywars kill effect
+ A spigot plugin which recreates the hypixel skywars kill effect
+on kill
